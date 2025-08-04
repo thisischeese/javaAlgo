@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BJ_1012"/>
+	<classpathentry kind="src" path="BJ_1260"/>
+	<classpathentry kind="src" path="BJ_21608"/>
+	<classpathentry kind="src" path="BJ_24479"/>
+	<classpathentry kind="src" path="P_베스트앨범"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
