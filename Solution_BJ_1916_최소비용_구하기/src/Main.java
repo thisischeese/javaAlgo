@@ -6,6 +6,8 @@ public class Main {
 	public static int dijkstra(int N,int start,int end,int[][] bus_info) {
 		int dist = Integer.MAX_VALUE; 
 		int[] distance = new int[N]; 
+		PriorityQueue<Integer> queue = new PriorityQueue<>();
+		for(int i)
 		return dist; 
 	}
 	
